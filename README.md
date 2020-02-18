@@ -1,6 +1,6 @@
 # Mini JAVA Compiler
 
-#### Lexer, Parser, Tree Drawer, Code Generator for mini java
+#### Lexer, Parser, Tree Drawer, Code Generator for Mini Java
 
 ## Features
 
