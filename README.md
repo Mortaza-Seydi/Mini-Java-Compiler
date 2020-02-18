@@ -22,10 +22,10 @@
 ![Lexer](./previews/0.jpg)
 
 ##### Tree :
-![Tree](./Previews/1.jpg)
+![Tree](./previews/1.jpg)
 
 ##### Code Generator : 
-![Code](./Previews/2.jpg)
+![Code](./previews/2.jpg)
 
 ##### Error Detection :
-![Lists Pic](./Previews/3.jpg)
+![Lists Pic](./previews/3.jpg)
